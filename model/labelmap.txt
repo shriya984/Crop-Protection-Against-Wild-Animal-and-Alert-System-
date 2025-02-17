@@ -1,0 +1,8 @@
+Buffalo
+Cow
+Deer
+Leopard
+Monkey
+Peacock
+Porcupine
+Warthog
